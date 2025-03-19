@@ -279,7 +279,6 @@ hello
 %% begin hello %%
 
 hello
-
 one
 %% end hello %%
     `.trim();
